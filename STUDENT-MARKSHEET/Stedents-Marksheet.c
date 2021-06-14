@@ -1,4 +1,4 @@
-//C Program for Student Marksheet Using Structure
+//C Program for Students Marksheet Using Structure
 
 #include <stdio.h>
 #include <string.h>
