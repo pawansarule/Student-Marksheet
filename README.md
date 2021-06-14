@@ -1,3 +1,3 @@
 # Student-Marksheet
 
-C Program to Display Student Marksheet
+C Program for Display Students Marksheet
